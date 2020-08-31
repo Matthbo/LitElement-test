@@ -1,0 +1,18 @@
+{
+    "compilerOptions": {
+        "outDir": "./dist/",
+        "rootDir": "./src",
+        "noImplicitAny": true,
+        "module": "esnext",
+        "target": "es6",
+        "sourceMap": true,
+        "moduleResolution": "node",
+        "experimentalDecorators": true
+    },
+    "include": [
+        "src/**/*"
+    ],
+    /* "exclude": [
+        "node_modules",
+    ] */
+}
